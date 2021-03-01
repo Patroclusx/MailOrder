@@ -1,0 +1,7 @@
+net.client
+net.client.order
+net.client.tracking
+net.mailorder
+net.mailorder.entities
+net.mailorder.servlets
+net.mailorder.webservices

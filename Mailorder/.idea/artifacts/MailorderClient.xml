@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MailorderClient">
+    <output-path>$PROJECT_DIR$/out/artifacts/MailorderClient</output-path>
+    <root id="archive" name="MailorderClient.jar">
+      <element id="module-output" name="MailorderClient" />
+    </root>
+  </artifact>
+</component>
